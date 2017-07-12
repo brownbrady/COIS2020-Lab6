@@ -1,0 +1,12 @@
+d:\users\sri\documents\visual studio 2015\Projects\BinaryHeapLab\BinaryHeapLab\bin\Debug\BinaryHeapLab.exe.config
+d:\users\sri\documents\visual studio 2015\Projects\BinaryHeapLab\BinaryHeapLab\bin\Debug\BinaryHeapLab.exe
+d:\users\sri\documents\visual studio 2015\Projects\BinaryHeapLab\BinaryHeapLab\bin\Debug\BinaryHeapLab.pdb
+d:\users\sri\documents\visual studio 2015\Projects\BinaryHeapLab\BinaryHeapLab\obj\Debug\BinaryHeapLab.csprojResolveAssemblyReference.cache
+d:\users\sri\documents\visual studio 2015\Projects\BinaryHeapLab\BinaryHeapLab\obj\Debug\BinaryHeapLab.exe
+d:\users\sri\documents\visual studio 2015\Projects\BinaryHeapLab\BinaryHeapLab\obj\Debug\BinaryHeapLab.pdb
+C:\Users\mbernardo\Google Drive\Education\Trent University\COIS 2020\Lab 6\BinaryHeapLab\bin\Debug\BinaryHeapLab.exe.config
+C:\Users\mbernardo\Google Drive\Education\Trent University\COIS 2020\Lab 6\BinaryHeapLab\obj\Debug\BinaryHeapLab.exe
+C:\Users\mbernardo\Google Drive\Education\Trent University\COIS 2020\Lab 6\BinaryHeapLab\obj\Debug\BinaryHeapLab.pdb
+C:\Users\mbernardo\Google Drive\Education\Trent University\COIS 2020\Lab 6\BinaryHeapLab\bin\Debug\BinaryHeapLab.exe
+C:\Users\mbernardo\Google Drive\Education\Trent University\COIS 2020\Lab 6\BinaryHeapLab\bin\Debug\BinaryHeapLab.pdb
+C:\Users\mbernardo\Google Drive\Education\Trent University\COIS 2020\Lab 6\BinaryHeapLab\obj\Debug\BinaryHeapLab.csprojResolveAssemblyReference.cache
